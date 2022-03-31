@@ -1,3 +1,8 @@
+/**
+ * @author      Uddam Bhathal <Uddamsingh14@gmail.com>
+ * @version     1
+ * @since       1
+ */
 package com.company;
 import java.util.Scanner;
 public class ATM {
