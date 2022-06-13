@@ -33,9 +33,7 @@ public class Main {
                 System.out.print("Enter activity #1-6: ");
                 choice = in.nextInt();
             }
-            if (choice == 6) {
-                break;
-            }
         }
+        System.out.println("ATM closed. Thanks, come again!");
     }
 }
